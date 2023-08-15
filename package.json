@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "superlive-api-doc",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.4",
+    "vue": "^3.3.4"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "vuepress-plugin-sidebar": "^0.2.1"
+  }
+}
