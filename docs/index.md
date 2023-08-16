@@ -5,7 +5,7 @@ hero:
     name: Adocs
     text: Static docs template built with VitePress.
     image:
-        src: /.vuepress/puplic/images/logo.png
+        src: .vuepress/puplic/images/logo.png
         alt: Adocs logo
     tagline: A free to use template for creating docs for your projects
     actions:
